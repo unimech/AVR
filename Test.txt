@@ -1,0 +1,18 @@
+0.1ml per min to 50ml
+
+2000 psi - 4-20ma
+
+temp 
+
+PLC - HMI
+
+2 options
+
+flowrate
+pressure to be maintained
+
+Any of the two modes
+
+
+
+
